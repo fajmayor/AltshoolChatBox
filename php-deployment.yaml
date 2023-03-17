@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
       - name: webapp1
-        image: fajmayor/chatbox-1
+        image: shawon10/ruetchatbot
         imagePullPolicy: Always
         ports:
         - containerPort: 8081
