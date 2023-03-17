@@ -135,7 +135,7 @@ $(document).ready(function(){
 
           if(i==1)
           {
-              $('#div').html("<div class=\"ou\"> Hello Guest. Welcome To AltSchool LiveChat</div><br>");
+              $('#div').html("<div class=\"ou\"> Hello Guest. Welcome To AltSchool Live Chat App</div><br>");
 
           }
           
